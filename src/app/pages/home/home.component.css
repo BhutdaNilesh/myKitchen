@@ -1,10 +1,9 @@
 .banner
 {
-    /* background-image: url('../../../assets/img/banner.jpg'); */
-    height: 600px;
+    /* background-image: url('../../../assets/img/bannerimg.jpg'); */
+    height: 50px;
     background-position: center top;
     background-size: cover;
-    color: #000;
 }
 .content
 {
